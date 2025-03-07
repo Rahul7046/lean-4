@@ -1,2 +1,4 @@
 # lean-4
-learning lean 
+
+--Welocome to lean 4
+--Aouther - Rahul Kumar
